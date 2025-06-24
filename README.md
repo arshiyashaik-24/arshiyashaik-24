@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/71b33234254bcfdf27e772ff6c5e127a/1be8f6c98f4d6b84-4e/s540x810/b9e16a9a8cc4aa122b86a6c4bdbdc1989b7b2298.gifv" width="400" alt="coding aesthetic" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Aesthetic Coding Girl" />
 </p>
+
 
 <h1 align="center">✨ Hi, I'm Arshiya Shaik! 👩‍💻</h1>
 
