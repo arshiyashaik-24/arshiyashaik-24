@@ -16,8 +16,6 @@
 
 ---
 
-### 💼 Languages and Tools
-
 ### 🌸 Languages & Tools
 
 <p align="center">
