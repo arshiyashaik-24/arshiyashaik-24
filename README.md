@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm [Your Name]! 👩‍💻</h1>
+<h1 align="center">✨ Hi, I'm Arshiya Shaik! 👩‍💻</h1>
 <p align="center">
   Coding girlie • Tech enthusiast • Lifelong learner 💡
 </p>
