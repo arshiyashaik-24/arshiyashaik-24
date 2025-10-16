@@ -12,7 +12,7 @@
 - 💖 Passionate about **embedded systems**, **healthcare**, and **web development**
 - ✉️ Reach me here: shaik.arshiyatasneem24@gmail.com
 - 🌍 Based in Eindhoven, The Netherlands 
-- 🧠 Currently learning: `TypeScript`, `React.js`, `C#`
+- 🧠 Currently learning: `Swing`, `Java`, `C#`
 
 ---
 
