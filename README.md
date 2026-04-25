@@ -8,11 +8,11 @@
 
 ### 🌸 About Me
 
-- 🎓 I'm currently a Double Bachelors Student in Computer Science and Engineering +  Applied Physics in TU Eindhoven
-- 💖 Passionate about **embedded systems**, **healthcare**, and **web development**
-- ✉️ Reach me here: shaik.arshiyatasneem24@gmail.com
-- 🌍 Based in Eindhoven, The Netherlands 
-- 🧠 Currently learning: `Swing`, `Java`, `C#`
+- I'm currently a Double Bachelors Student in Computer Science and Engineering +  Applied Physics in TU Eindhoven
+- Passionate about **embedded systems**, **healthcare**, and **web development**
+- Reach me here: shaik.arshiyatasneem24@gmail.com
+- Based in Eindhoven, The Netherlands 
+- Currently learning: `Swing`, `Java`, `C#`
 
 ---
 
